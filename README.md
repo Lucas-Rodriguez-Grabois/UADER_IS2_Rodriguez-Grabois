@@ -38,7 +38,7 @@
 
 # \## Figura
 
-# !\[Logo de Python](https://www.python.org/static/community\_logos/python-logo.png)
+# !\[Logo de Python](doc/python.png)
 
 # 
 
